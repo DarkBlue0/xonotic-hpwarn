@@ -1,0 +1,3 @@
+[submodule "xonotic-data.pk3dir"]
+	path = xonotic-data.pk3dir
+	url = https://gitlab.com/xonotic/xonotic-data.pk3dir
